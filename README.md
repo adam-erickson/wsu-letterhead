@@ -9,7 +9,7 @@ Unofficial Washington State University letterhead using LaTeX3 conventions. In o
 
 Next, modify the `coverletter.cls` file to enter your contact information in the text block titled "FOR MODIFICATION". This will remain constant throughout the duration of your position. Once the `.cls` file has been modified, you are ready to write your first letter by modifying the `main.tex` file. Refer to the `coverletter.cls` file for a list of available fields. The `coverletter` class is based on the `article` class, with additional `documentclass` options for `bw` or `color` to specify black and white or RGB output.
 
-The resulting output should appear similar to the following image:
+To compile the `.tex` file, run `pdflatex` twice or use a web service like Overleaf. The resulting output should appear similar to the following image:
 
 <p align="center">
   <img src="img.png")>
