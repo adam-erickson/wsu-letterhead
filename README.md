@@ -1,4 +1,4 @@
-# wsu-letterhead
+# wsu-letter-template
 
 Unofficial Washington State University letterhead using LaTeX3 conventions. In order to use this template, copy the following files into a new directory for modification as necessary:
 
